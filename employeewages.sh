@@ -32,4 +32,4 @@ do
 done
 
 echo "tempwage -" $tempWage
-echo "totalWage - " $totalWage
+
